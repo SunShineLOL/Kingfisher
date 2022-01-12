@@ -1,7 +1,15 @@
 # Change Log
 
 -----
+---
+## [6.3.2 - Published Wrapper](https://github.com/onevcat/Kingfisher/releases/tag/6.3.2) (2022-1-12)
+#### Fix
+* fix Xcode13 iOS 10.0 
+```
+xcodebuild:  Kingfisher/Sources/SwiftUI/KFImage.swift:100:5: note: 'init(binder:)' declared here
+```
 
+---
 ## [6.3.1 - Published Wrapper](https://github.com/onevcat/Kingfisher/releases/tag/6.3.1) (2021-08-03)
 
 #### Fix
