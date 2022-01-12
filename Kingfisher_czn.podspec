@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "Kingfisher"
+  s.name         = "Kingfisher_czn"
   s.version      = "6.3.2"
   s.summary      = "A lightweight and pure Swift implemented library for downloading and cacheing image from the web."
 
@@ -37,5 +37,4 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
   s.frameworks = "CFNetwork", "Accelerate"
-  s.weak_frameworks = "SwiftUI", "Combine"
 end
